@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
-    "hapi": "^11.1.2"
+    "hapi": "*"
   },
   "devDependencies": {},
   "scripts": {
